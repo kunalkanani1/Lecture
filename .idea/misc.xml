@@ -5,13 +5,18 @@
       <map>
         <entry key="..\:/CREATIVE/Lecture/app/src/main/res/drawable/bg.xml" value="0.211" />
         <entry key="..\:/CREATIVE/Lecture/app/src/main/res/drawable/check.xml" value="0.1" />
+        <entry key="..\:/CREATIVE/Lecture/app/src/main/res/drawable/dot_empty.xml" value="0.161" />
+        <entry key="..\:/CREATIVE/Lecture/app/src/main/res/drawable/dot_filled.xml" value="0.179" />
         <entry key="..\:/CREATIVE/Lecture/app/src/main/res/drawable/myfile.xml" value="0.211" />
         <entry key="..\:/CREATIVE/Lecture/app/src/main/res/layout/activity_checkbox.xml" value="0.28802083333333334" />
+        <entry key="..\:/CREATIVE/Lecture/app/src/main/res/layout/activity_lock.xml" value="0.28802083333333334" />
         <entry key="..\:/CREATIVE/Lecture/app/src/main/res/layout/activity_main.xml" value="0.28802083333333334" />
-        <entry key="..\:/CREATIVE/Lecture/app/src/main/res/layout/activity_second.xml" value="0.1111111111111111" />
+        <entry key="..\:/CREATIVE/Lecture/app/src/main/res/layout/activity_second.xml" value="0.25555555555555554" />
         <entry key="..\:/CREATIVE/Lecture/app/src/main/res/layout/content_second.xml" value="0.28802083333333334" />
         <entry key="..\:/CREATIVE/Lecture/app/src/main/res/layout/fragment_first.xml" value="0.28802083333333334" />
         <entry key="..\:/CREATIVE/Lecture/app/src/main/res/layout/fragment_second.xml" value="0.28802083333333334" />
+        <entry key="..\:/CREATIVE/Lecture/app/src/main/res/layout/layout_delete_item.xml" value="0.28802083333333334" />
+        <entry key="..\:/CREATIVE/Lecture/app/src/main/res/layout/layout_number_item.xml" value="0.28802083333333334" />
         <entry key="..\:/CREATIVE/Lecture/app/src/main/res/layout/myfile.xml" value="0.28802083333333334" />
         <entry key="..\:/CREATIVE/Lecture/app/src/main/res/menu/home.xml" value="0.28802083333333334" />
       </map>
